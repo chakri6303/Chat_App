@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "867814802971",
+    "firebase_url": "https://chat-f3f7d-default-rtdb.firebaseio.com",
+    "project_id": "chat-f3f7d",
+    "storage_bucket": "chat-f3f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867814802971:android:1f0c7b80425a66693c9abe",
+        "android_client_info": {
+          "package_name": "com.codespacepro.whatsify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayKQKKbf8N1bK76HI2txqT47Kx8bkvRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867814802971:android:14dece1ebe8e2d5d3c9abe",
+        "android_client_info": {
+          "package_name": "com.example.android.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayKQKKbf8N1bK76HI2txqT47Kx8bkvRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867814802971:android:6b691b947292be453c9abe",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayKQKKbf8N1bK76HI2txqT47Kx8bkvRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867814802971-r9notb0rkjga0gcu3859okg6omgjs6il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
